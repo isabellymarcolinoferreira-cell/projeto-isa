@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Ole&display=swap');
+</style>
+body{
+    background-color:aqua;
+    color:blueviolet
+    font-family: "Roboto", cursive;
+
+}
+.cabecalho{
+   text-align: center;
+   background-color:crimson
+}
