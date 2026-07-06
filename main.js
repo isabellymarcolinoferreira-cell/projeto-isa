@@ -1,2 +1,13 @@
 const botoes = document.querySelectorAll("button");
-console.log(botoes);
+console.log(botoes)
+
+botoes.forEach(function (botao){
+    let curtiu = false
+    botao.addEventListener("click", )
+
+    function botaoClicado
+
+
+
+
+})
